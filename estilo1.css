@@ -1,0 +1,161 @@
+  body{
+    color: white;
+    background-color:purple;
+     font-family: Comic Sans, Arial;
+  }
+
+
+  header {
+    background: rgba(20,20,20,0.7);
+    width: 100%;
+    position: absolute;
+    z-index: 100;
+  }
+
+  nav {
+    float: left;
+  }
+
+  nav ul {
+    list-style: none;
+    overflow: hidden; 
+  }
+
+  nav ul li {
+    float: left;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  nav ul li a {
+    display:block;
+    padding: 20px;
+    color: #fff;
+    text-decoration: none;
+  }
+  nav ul li:hover {
+    background: #eca023;
+  }
+
+  .Fotos1{
+    position:relative;
+    top:;
+    bottom:-100px ;
+    right:px;
+    left:10px ;
+    background-color:white;
+  margin: auto ;
+  border:auto;
+  padding:5px;
+     }
+
+  .Foto-1{
+    width:21%;
+    height:auto ;
+    text-align:;
+ 
+  }   
+  .Fotos2{
+    position:relative;
+    top:;
+    bottom:-100px ;
+    right:px;
+    left:10px ;
+    background-color:white;
+  margin: auto ;
+  border:auto;
+  padding:5px;
+     }
+
+  .Foto-2{
+    width:21%;
+    height:auto ;
+    text-align:;
+
+  }  
+    .Fotos3{
+    position:relative;
+    top:;
+    bottom:-100px ;
+    right:px;
+    left:10px ;
+    background-color:white;
+  margin: auto ;
+  border:auto;
+  padding:5px;
+     }
+
+
+  .Foto-3{
+    width:21%;
+    height:auto ;
+    text-align:;
+ 
+  }  
+  .Foto-4{
+    width:21%;
+    height:auto ;
+    text-align:;
+
+  }  
+  .Foto-5{
+    width:21%;
+    height:auto ;
+    text-align:;
+  }  
+  .Foto-6{
+    width:21%;
+    height:auto ;
+    text-align:;
+
+  }  
+
+    .Texto1{
+    position:relative;
+    top:;
+    bottom:-100px ;
+    right:px;
+    left:10px ;
+    background-color:white;
+    margin: auto ;
+    border:auto;
+    padding:5px;
+
+ 
+   }
+   .Texto2{
+    position:relative;
+    top:;
+    bottom:-100px ;
+    right:px;
+    left:10px ;
+    background-color:white;
+    margin: auto ;
+    border:auto;
+    padding:5px;
+   }
+
+    .Texto3{
+    position:relative;
+    top:;
+    bottom:-100px ;
+    right:px;
+    left:10px ;
+    background-color:white;
+    margin: auto ;
+    border:auto;
+    padding:5px;
+   }
+  
+  
+  .li{
+    list-style: none;
+    position: ;
+  }
+
+     
+
+  
+
+
+
+
